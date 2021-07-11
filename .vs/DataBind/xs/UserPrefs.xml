@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{76EBF716-7282-468C-9012-158E5B122172}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataBind/Pages/SingleHandler.razor">
+    <Files>
+      <File FileName="DataBind/Pages/Index.razor" Line="18" Column="8" />
+      <File FileName="DataBind/Pages/SingleHandler.razor" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataBind" expanded="True">
+            <Node name="DataBind" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="SingleHandler.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataBind PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
