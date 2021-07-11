@@ -75,8 +75,7 @@ using DataBind.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class TwoWayDataBind : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -84,15 +83,13 @@ using DataBind.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 17 "/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/Pages/Index.razor"
+#line 12 "/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/Pages/TwoWayDataBind.razor"
        
-    public string MyName { get; set; }
-
-    private void NameChange(ChangeEventArgs e)
-    {
-        MyName = e.Value as string;
-       
-    }
+    private string Frameworks { get; set; } = "ASP.NET Core";
+    //private void UpdateFramework(ChangeEventArgs e)
+    //{
+    //    Frameworks = e.Value as string;
+    //}
 
 #line default
 #line hidden

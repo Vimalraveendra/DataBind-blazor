@@ -1,0 +1,19 @@
+﻿<h3 class="bg-secondary text-white">@MyOption</h3>
+
+<div class="form-group">
+    <label>Name:</label>
+    <select class="form-control" @onchange="OptionHandle">
+        <option>Ram</option>
+        <option>Jack</option>
+        <option>Joe</option>
+    </select>
+</div>
+
+@code {
+    public string MyOption { get; set; }
+        
+    private void OptionHandle(ChangeEventArgs e)
+    {
+        MyOption = e.Value as string;
+    }
+}

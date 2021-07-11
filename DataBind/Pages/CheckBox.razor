@@ -1,0 +1,15 @@
+﻿<h3 class="bg-secondary text-white">@AgreeValue</h3>
+
+<div class="form-group">
+    <label>Agree to terms:</label>
+    <input type="checkbox" @onchange="Agree" />
+</div>
+
+@code {
+    public bool AgreeValue { get; set; }
+
+    private void Agree(ChangeEventArgs e)
+    {
+        AgreeValue = Convert.ToBoolean(e.Value);
+    }
+}

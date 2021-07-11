@@ -50,3 +50,11 @@
 /Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/DataBind.csproj.CopyComplete
 /Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SingleHandler.razor.g.cs
 /Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/Razor/Pages/SingleHandler.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SelectComponent.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/Razor/Pages/SelectComponent.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/CheckBox.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/Razor/Pages/CheckBox.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/RadioComponent.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/Razor/Pages/RadioComponent.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/TwoWayDataBind.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/DataBind/DataBind/obj/Debug/netcoreapp3.1/Razor/Pages/TwoWayDataBind.razor.g.cs
