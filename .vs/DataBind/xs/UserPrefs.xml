@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{76EBF716-7282-468C-9012-158E5B122172}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataBind/Pages/SingleHandler.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataBind/Pages/TwoWayDataBind.razor">
     <Files>
-      <File FileName="DataBind/Pages/Index.razor" Line="18" Column="8" />
-      <File FileName="DataBind/Pages/SingleHandler.razor" Line="2" Column="1" />
+      <File FileName="DataBind/Pages/Index.razor" Line="15" Column="17" />
+      <File FileName="DataBind/Pages/SingleHandler.razor" Line="27" Column="2" />
+      <File FileName="DataBind/Pages/SelectComponent.razor" Line="14" Column="9" />
+      <File FileName="DataBind/Pages/CheckBox.razor" Line="16" Column="1" />
+      <File FileName="DataBind/Pages/RadioComponent.razor" Line="17" Column="5" />
+      <File FileName="DataBind/Pages/TwoWayDataBind.razor" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +14,7 @@
           <Node name="DataBind" expanded="True">
             <Node name="DataBind" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="SingleHandler.razor" selected="True" />
+                <Node name="TwoWayDataBind.razor" selected="True" />
               </Node>
             </Node>
           </Node>
